@@ -1,0 +1,10 @@
+build/
+*.o
+*.out
+*.h5
+*.png
+*.pdf
+*.DS_Store
+error_table.csv
+__pycache__/
+
